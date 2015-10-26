@@ -17,4 +17,8 @@ public class ForTest {
 		}
 		System.out.println(System.currentTimeMillis());
 	}
+	
+	public static void test(){
+		
+	}
 }
